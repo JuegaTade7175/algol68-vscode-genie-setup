@@ -26,7 +26,8 @@
             "args": [
                 "--login",
                 "-i"
-            ]
+            ],
+            "icon": "terminal-bash"
         }
     },
     "terminal.integrated.enablePersistentSessions": false,
