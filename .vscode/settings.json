@@ -1,0 +1,63 @@
+{
+    "json.schemas": [],
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; chcp 65001"
+            ]
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [
+                "/K",
+                "chcp 65001"
+            ],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "args": [
+                "--login",
+                "-i"
+            ]
+        }
+    },
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.fontFamily": "Cascadia Code PL",
+    "terminal.integrated.unicodeVersion": "11",
+    "code-runner.executorMap": {
+        "algol68": "cd $dir && a68g $fileName"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "files.associations": {
+        "*.a68": "algol68",
+        "*.alg": "algol68"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "files.autoGuessEncoding": false,
+    "files.encoding": "utf8",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.fontLigatures": true,
+    "[algol68]": {
+        "files.encoding": "utf8",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false
+    },
+    "explorer.confirmDelete": false,
+    "editor.accessibilitySupport": "on",
+    "security.workspace.trust.untrustedFiles": "open"
+}
