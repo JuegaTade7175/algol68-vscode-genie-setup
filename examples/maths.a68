@@ -1,0 +1,11 @@
+PROC potencia = (REAL base, INT exponente) REAL:
+    (exponente = 0 | 1.0 | base * potencia(base, exponente - 1));
+
+BEGIN
+    REAL x = 3.14;
+    print(("🍫 Cálculos matemáticos 🍫:", newline));
+    print(("  🏀 Seno(", fixed(x, -5, 2), ") = ", fixed(sin(x), -8, 5), newline));
+    print(("  🔫", fixed(x, -5, 2), "² = ", fixed(x**2, -8, 5), newline));
+    print(("  🥪 2^8 = ", whole(2^8, 0), newline));
+    print(("  🎰 e^π ≈ ", fixed(exp(pi), -8, 5), newline))
+END
