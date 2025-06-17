@@ -15,15 +15,15 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 1.	🖥️ ALGOL 68 Genie
 → https://algol68.sourceforge.net/
 → Debe añadirse la carpeta de instalación al PATH (del sistema).
-2.	🖥️ Gnuplot
+3.	🖥️ Gnuplot
 → https://sourceforge.net/projects/gnuplot/
 → Debe añadirse al PATH (del sistema) para que se pueda invocar.
-3.	🖥️ Visual Studio Code
+4.	🖥️ Visual Studio Code
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US
-4.	🖥️ Git for Windows
+5.	🖥️ Git for Windows
 → https://git-scm.com/
 → Para el control de versiones y el uso de la terminal de Git Bash.
-5.	🖥️ Cascadia Code PL Font
+6.	🖥️ Cascadia Code PL Font
 → https://github.com/microsoft/cascadia-code/releases 
 → Para poder usar la fuente más actualizada para emojis y ligaduras.
 
