@@ -33,7 +33,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → Para ejecutar el código.
 2.	📟  Algol68 (jlguenego)
 → https://marketplace.visualstudio.com/items?itemName=mammothb.gnuplot  
-→ Para ejecutar el código.
+→ Para usar gráficos o análisis.
 3.	📟 Gnuplot (mammoth)
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68 
 → Para soporte de sintaxis.
