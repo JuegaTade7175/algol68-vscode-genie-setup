@@ -1,0 +1,27 @@
+BEGIN
+    # Función para verificar primos #
+    PROC is prime = (INT n) BOOL:
+        IF n < 2 THEN FALSE
+        ELIF n = 2 THEN TRUE
+        ELIF n MOD 2 = 0 THEN FALSE
+        ELSE
+            BOOL prime := TRUE;
+            FOR i FROM 3 BY 2 TO ENTIER(sqrt(n)) WHILE prime DO
+                IF n MOD i = 0 THEN prime := FALSE FI
+            OD;
+            prime
+        FI;
+
+    # Generar Fibonacci #
+    INT max = 20;
+    [0:max] INT fib;
+    fib[0] := 0; fib[1] := 1;
+    
+    print(("😅🤗 Secuencia Fibonacci y primos: 😅🤗", newline));
+    FOR i FROM 2 TO max DO
+        fib[i] := fib[i-1] + fib[i-2];
+        BOOL prime flag = is prime(fib[i]);
+        print(("💵 Fib[", whole(i,0), "] = ", whole(fib[i],0), 
+               IF prime flag THEN " ✓PRIMO 😍" ELSE "" FI, newline))
+    OD
+END
