@@ -1,0 +1,36 @@
+BEGIN
+    # Función para crear tablero de ajedrez con emojis #
+    PROC crear tablero = (INT tamanio) STRING:
+        IF tamanio < 2 THEN
+            "❌😊😘🤩😯🥱🤫🤧🤮🥺😇 Tamaño insuficiente"  # Emoji de error#
+        ELSE
+            STRING resultado := "";
+            FOR i TO tamanio DO
+                FOR j TO tamanio DO
+                    resultado +:= 
+                        IF (i + j) MOD 2 = 1 THEN 
+                            "⬛"  # Casilla negra#
+                        ELSE 
+                            "⬜"  # Casilla blanca#
+                        FI
+                OD;
+                resultado +:= REPR 10  # Salto de línea#
+            OD;
+            "Ligaduras: => -> != === :: => (⇒) -> (→) != (≠) === (≡) :: (∷)" + whole(tamanio, 0) + "x" + whole(tamanio, 0) + REPR 10 + resultado  # Emoji de torre#
+        FI;
+    
+    # Prueba con diferentes tamaños #
+    []INT pruebas = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+    
+    print(("♚ Inicio de prueba de ajedrez ♛", newline, newline));  # Emojis de rey/reina#
+    
+    FOR i TO UPB pruebas DO
+        INT tam = pruebas[i];
+        print(("📏 Tamaño: ", whole(tam, 0), newline));
+        STRING tablero = crear tablero(tam);
+        print((tablero, newline));
+        print(("🔹" * 20, newline))  # Separador decorativo#
+    OD;
+    
+    print(("🏁 Fin del programa", newline))
+END
