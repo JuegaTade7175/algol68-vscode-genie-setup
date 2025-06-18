@@ -20,7 +20,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → Debe añadirse al PATH (del sistema) para que se pueda invocar.
 4.	🖥️ Visual Studio Code
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US    
-→ El programa esencial para correr lenguaje histórico.
+→ El programa esencial para poder correr este lenguaje histórico.
 6.	🖥️ Git for Windows
 → https://git-scm.com/                                           
 → Para el control de versiones y el uso de la terminal de Git Bash.
