@@ -29,7 +29,7 @@
 → LETRA:\Users\tu_usuario\      
 
 ♨️ Instalar la fuente Cascadia Code PL        
-🌃 Abrir el zip descargado, en la ruta:        
+🌃 Ejecutar .ttf en el zip descargado, en:        
 → CascadiaCode-2407.24.zip\ttf\CascadiaCodePL.ttf 
 
 ♨️ Instalar Visual Studio Code        
