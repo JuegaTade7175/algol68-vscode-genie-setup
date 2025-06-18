@@ -13,16 +13,16 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 
 📋 Requisitos del sistema (completos)
 1.	🖥️ ALGOL 68 Genie
-→ https://algol68.sourceforge.net/
+→ https://algol68.sourceforge.net/                     
 → Debe añadirse la carpeta de instalación al PATH (del sistema).
 3.	🖥️ Gnuplot
-→ https://sourceforge.net/projects/gnuplot/
+→ https://sourceforge.net/projects/gnuplot/              
 → Debe añadirse al PATH (del sistema) para que se pueda invocar.
 4.	🖥️ Visual Studio Code
-→ https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US
+→ https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US     
 → El programa esencial para este lenguaje.
 6.	🖥️ Git for Windows
-→ https://git-scm.com/
+→ https://git-scm.com/                                           
 → Para el control de versiones y el uso de la terminal de Git Bash.
 7.	🖥️ Cascadia Code PL Font
 → https://github.com/microsoft/cascadia-code/releases 
