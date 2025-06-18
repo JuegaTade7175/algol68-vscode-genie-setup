@@ -1,7 +1,7 @@
 # algol68-vscode-genie-setup
 Este repositorio está diseñado para proporcionar un entorno completo y reproducible para programar en ALGOL 68 Genie usando Visual Studio Code en Windows, con soporte de gráficos (gnuplot), control de versiones (Git Bash), fuente Cascadia Code PL (ligaduras) y terminal UTF-8 (emojis).
 
-😎 Características
+😎 Características              
 🎯 Ejecución de programas ALGOL 68 en Visual Studio Code           
 🎯 Terminal Git Bash optimizado (UTF-8)           
 🎯 Fuente Cascadia Code PL                
@@ -19,7 +19,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → https://sourceforge.net/projects/gnuplot/              
 → Debe añadirse al PATH (del sistema) para que se pueda invocar.
 4.	🖥️ Visual Studio Code
-→ https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US     
+→ https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US             
 → El programa esencial para correr lenguaje histórico.
 6.	🖥️ Git for Windows
 → https://git-scm.com/                                           
