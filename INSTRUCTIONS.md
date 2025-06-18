@@ -5,7 +5,7 @@
 🌃 Agregar a PATH:      
 → algol68g-3.5.14.win32\algol68g-3.5.14\bin\        
 
-♨️ Instalar Gnuplot
+♨️ Instalar Gnuplot         
 🌃 Durante la instalación, marcar la opción:       
 → "Añadir Gnuplot al PATH"     
 
