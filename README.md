@@ -23,10 +23,10 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → El programa esencial para este lenguaje.
 6.	🖥️ Git for Windows
 → https://git-scm.com/
-→ Para el uso de la terminal de Git Bash.
+→ Para el control de versiones y el uso de la terminal de Git Bash.
 7.	🖥️ Cascadia Code PL Font
 → https://github.com/microsoft/cascadia-code/releases 
-→ Para poder usar la fuente más actualizada para emojis y ligaduras.
+→ Para poder usar la fuente más actualizada.
 
 📦 Extensiones de Visual Studio Code (necesarias)
 1.	📟Code Runner (Jun Han)
