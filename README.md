@@ -36,7 +36,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → https://marketplace.visualstudio.com/items?itemName=mammothb.gnuplot  
 → Para usar gráficos o análisis.
 3.	📟 Gnuplot (mammoth)
-→ https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68 
+→ https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68   
 → Para soporte de sintaxis.
 
 ⚠️ Nota sobre antivirus
