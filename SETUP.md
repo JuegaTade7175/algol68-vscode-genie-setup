@@ -2,14 +2,14 @@
 
 ♨️ Preparar el sistema para UTF-8      
 🌃 En buscar, tipea Región y ábrelo:   
-→ Ve a Adminstrativo, luego a no Unicode y marca la casilla Beta    
+→ Ve a Administrativo, luego a no Unicode y marca la casilla Beta    
 
 ♨️ Descomprimir ALGOL 68 Genie      
-🌃 Usar la opción:    
+🌃 Click derecho en el zip y usar la opción:    
 → Extraer en "algol68g-3.5.14.win32"   
 
 ♨️ Agregar ALGOL al PATH (del sistema):    
-🌃 Usar la opción:    
+🌃 En Variables de Entorno y usar la opción:    
 → LETRA:\Users\tu_usuario\LUGAR\algol68g-3.5.14.win32\algol68g-3.5.14\bin        
 
 ♨️ Instalar Git for Windows        
@@ -42,8 +42,8 @@
 
 ♨️ Instalar las extensiones (en VS Code)       
 🌃 Abre Visual Studio Code, Ctrl+Shift+X:        
-→ Busca los nombres de las extensiones dadas       
+→ Busca e instala las extensiones indicadas       
 
 ♨️ Configurar settings.json (en VS Code)        
 🌃 Abre Visual Studio Code, Ctrl+Shift+P:        
-→ Busca settings.json y sigue el modelo de scripts
+→ Busca settings.json y pega el modelo de scripts
