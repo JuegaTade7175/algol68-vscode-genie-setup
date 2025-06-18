@@ -36,10 +36,10 @@
 🌃 Ir a la Microsft Store, búscala en:        
 → Tu menú de incio y dale a "Obtener"      
 
-♨️ Configurar settings.json (en VS Code)        
-🌃 Abre Visual Studio Code, Ctrl+Shift+P:        
-→ Busca settings.json y sigue el modelo de scripts      
-
 ♨️ Instalar las extensiones (en VS Code)       
 🌃 Abre Visual Studio Code, Ctrl+Shift+X:        
-→ Busca los nombres de las extensiones dadas     
+→ Busca los nombres de las extensiones dadas       
+
+♨️ Configurar settings.json (en VS Code)        
+🌃 Abre Visual Studio Code, Ctrl+Shift+P:        
+→ Busca settings.json y sigue el modelo de scripts        
