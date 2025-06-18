@@ -16,16 +16,16 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 1.	🖥️ ALGOL 68 Genie
 → https://algol68.sourceforge.net/                     
 → Debe añadirse la carpeta bin de instalación al PATH (del sistema).
-3.	🖥️ Gnuplot
+2.	🖥️ Gnuplot
 → https://sourceforge.net/projects/gnuplot/              
 → Debe de estar instalado para que se pueda invocar y ejecutar.         
-4.	🖥️ Visual Studio Code
+3.	🖥️ Visual Studio Code
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US    
 → El programa esencial para poder correr este lenguaje histórico.
-6.	🖥️ Git for Windows
+4.	🖥️ Git for Windows
 → https://git-scm.com/                                           
 → Para el control de versiones y el uso de la terminal de Git Bash.
-7.	🖥️ Cascadia Code PL Font
+5.	🖥️ Cascadia Code PL Font
 → https://github.com/microsoft/cascadia-code/releases             
 → Para poder usar la fuente más actualizada para emojis y ligaduras.
 
@@ -33,10 +33,10 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 1.	📟Code Runner (Jun Han)
 → https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner  
 → Para ejecutar el código.
-2.	📟  Algol68 (jlguenego)
+2.	📟  Gnuplot (mammoth)
 → https://marketplace.visualstudio.com/items?itemName=mammothb.gnuplot  
 → Para usar gráficos o análisis.
-3.	📟 Gnuplot (mammoth)
+3.	📟 Algol68 (jlguenego)
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68   
 → Para soporte de sintaxis.
 
