@@ -1,6 +1,6 @@
 👽 Instalación paso a paso:
 
-♨️ Descomprimir ALGOL 68 Genie       
+♨️ Descomprimir ALGOL 68 Genie      
 🌃 Usar la opción:    
 → Extraer en "algol68g-3.5.14.win32"   
 
@@ -33,8 +33,8 @@
 → CascadiaCode-2407.24.zip\ttf\CascadiaCodePL.ttf 
 
 ♨️ Instalar Visual Studio Code        
-🌃 Ir a la Microsft Store, búscala en:        
-→ Tu menú de incio y dale a "Obtener"      
+🌃 Ir a la Microsoft Store, búscala en:        
+→ Tu menú de inicio y dale a "Obtener"      
 
 ♨️ Instalar las extensiones (en VS Code)       
 🌃 Abre Visual Studio Code, Ctrl+Shift+X:        
