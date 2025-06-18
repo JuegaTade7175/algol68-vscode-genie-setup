@@ -18,7 +18,7 @@ This repository is designed to provide a complete and reproducible environment f
 → The installation bin folder must be added to your system PATH.         
 2. 🖥️ Gnuplot      
 → https://sourceforge.net/projects/gnuplot/         
-→ Must be installed to be invoked and executed.          
+→ Must be installed to be invoked and executed for graphics.          
 3. 🖥️ Visual Studio Code        
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US         
 → The essential program for running this historic language.      
@@ -38,7 +38,7 @@ This repository is designed to provide a complete and reproducible environment f
 → To use graphics or analysis.            
 3. 📟 Algol68 (jlguenego)       
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68           
-→ For syntax support.        
+→ For good syntax support.        
 
 ⚠️ If your antivirus generates alerts, exclude these paths or processes:         
 1. 🪚 bash.exe     
