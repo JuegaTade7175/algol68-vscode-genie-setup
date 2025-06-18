@@ -38,7 +38,7 @@
 
 ♨️ Instalar Visual Studio Code        
 🌃 Ir a la Microsoft Store, búscala en:        
-→ Tu menú de inicio y dale a "Obtener"      
+→ Tu menú de inicio y dale a Obtener      
 
 ♨️ Instalar las extensiones (en VS Code)       
 🌃 Abre Visual Studio Code, Ctrl+Shift+X:        
