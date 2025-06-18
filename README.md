@@ -17,7 +17,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → Debe añadirse la carpeta bin de instalación al PATH (del sistema).
 3.	🖥️ Gnuplot
 → https://sourceforge.net/projects/gnuplot/              
-→ Debe añadirse al PATH (del sistema) para que se pueda invocar.
+→ Debe de estar instalado para que se pueda invocar y ejecutar.         
 4.	🖥️ Visual Studio Code
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US    
 → El programa esencial para poder correr este lenguaje histórico.
