@@ -1,5 +1,9 @@
 👽 Instalación paso a paso:
 
+♨️ Preparar el sistema para UTF-8      
+🌃 En buscar, tipea Región y ábrelo:   
+→ Ve a Adminstrativo, luego a no Unicode y marca la casilla Beta    
+
 ♨️ Descomprimir ALGOL 68 Genie      
 🌃 Usar la opción:    
 → Extraer en "algol68g-3.5.14.win32"   
@@ -42,4 +46,4 @@
 
 ♨️ Configurar settings.json (en VS Code)        
 🌃 Abre Visual Studio Code, Ctrl+Shift+P:        
-→ Busca settings.json y sigue el modelo de scripts        
+→ Busca settings.json y sigue el modelo de scripts
