@@ -39,8 +39,7 @@ Este repositorio está diseñado para proporcionar un entorno completo y reprodu
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68   
 → Para soporte de sintaxis.
 
-⚠️ Nota sobre antivirus          
-🛡️ Si tu antivirus genera alertas, excluye estas rutas o procesos:
+⚠️ Si tu antivirus genera alertas, excluye estas rutas o procesos:     
 1. 🪚 bash.exe
 2. 🪚 gnuplot.exe
 3. 🪚 a68g.exe
