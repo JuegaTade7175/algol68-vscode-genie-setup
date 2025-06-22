@@ -1,7 +1,6 @@
 # Security Policy
 
-This document describes how to report security vulnerabilities related to this repository and provides guidance on supported versions and response timelines.  
-Our goal is to ensure this configuration remains safe and useful for the community.
+This document describes how to report security vulnerabilities related to this repository and provides guidance on supported versions and response timelines. Our goal is to ensure this configuration remains safe and useful for the community.
 
 ## Reporting a Vulnerability
 
