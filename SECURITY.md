@@ -12,4 +12,4 @@ If you discover any potential security vulnerability related to this repository 
 
 ## Supported Versions
 
-This project is a configuration setup and does not maintain versioned releases. The latest version of the repository (main branch) is always considered the supported version.
+This project is a configuration setup and does not maintain versioned releases. The latest version of the repository is always considered the supported version.
