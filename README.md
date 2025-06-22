@@ -3,16 +3,16 @@ This repository is designed to provide a complete and reproducible environment f
 
 ## Features    
 
-🎯 Run ALGOL 68 programs in Visual Studio Code         
-🎯 Optimized Git Bash terminal (UTF-8)          
+🎯 Run ALGOL 68 programs on VS Code         
+🎯 Optimized terminals (UTF-8)          
 🎯 Cascadia Code PL source      
 🎯 Integrated graphics with Gnuplot          
 🎯 Custom aliases and scripts        
-🎯 Clean and visual code (thanks to Cascadia Code ligatures)        
+🎯 Clean and visual code (ligatures)        
 🎯 Support for .a68 and .alg        
-🎯 Version control (Git) ready              
+🎯 Version control with Git ready              
 
-## System Requirements (Full)         
+## Necessary System Installations (Full)         
 1. 🖥️ ALGOL 68 Genie           
 → https://algol68.sourceforge.net/         
 → The installation bin folder must be added to your system PATH.         
@@ -40,7 +40,7 @@ This repository is designed to provide a complete and reproducible environment f
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68           
 → For good syntax support.        
 
-## If your antivirus generates alerts, exclude these paths or processes:         
+## For antivirus, exclude these processes:         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
