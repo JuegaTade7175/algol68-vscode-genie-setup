@@ -1,7 +1,7 @@
 # algol68-vscode-genie-setup
 This repository is designed to provide a complete and reproducible environment for an optimized programming in ALGOL 68 Genie using Visual Studio Code on Windows 11, with support for graphing (gnuplot), version control (Git Bash), Cascadia Code PL font (ligatures), and UTF-8 terminal (emojis).     
 
-😎 Features    
+## Features    
 
 🎯 Run ALGOL 68 programs in Visual Studio Code         
 🎯 Optimized Git Bash terminal (UTF-8)          
@@ -12,7 +12,7 @@ This repository is designed to provide a complete and reproducible environment f
 🎯 Support for .a68 and .alg        
 🎯 Version control (Git) ready              
 
-📋 System Requirements (Full)         
+## System Requirements (Full)         
 1. 🖥️ ALGOL 68 Genie           
 → https://algol68.sourceforge.net/         
 → The installation bin folder must be added to your system PATH.         
@@ -29,7 +29,7 @@ This repository is designed to provide a complete and reproducible environment f
 → https://github.com/microsoft/cascadia-code/releases        
 → To use the most up-to-date font for emojis and ligatures.      
 
-📦 Visual Studio Code Extensions (Required)          
+## Visual Studio Code Extensions (Required)          
 1. 📟 Code Runner (Jun Han)         
 → https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner             
 → To run the correct code.          
@@ -40,7 +40,7 @@ This repository is designed to provide a complete and reproducible environment f
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68           
 → For good syntax support.        
 
-⚠️ If your antivirus generates alerts, exclude these paths or processes:         
+## If your antivirus generates alerts, exclude these paths or processes:         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
