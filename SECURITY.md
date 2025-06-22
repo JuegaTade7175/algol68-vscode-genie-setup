@@ -1,4 +1,4 @@
-# Security Policy
+# Our Security Policy
 
 This document describes how to report security vulnerabilities related to this repository and provides simple guidance on supported versions and response timelines.
 
