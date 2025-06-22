@@ -10,6 +10,6 @@ If you discover any potential security vulnerability related to this repository 
 - You can expect an initial response within **7 days**.
 - If the vulnerability is confirmed, an update or patch will be provided.
 
-## About The Versions
+## About The New Versions
 
 This project is a configuration setup and does not maintain versioned releases. The latest version of the repository (main branch) is always considered the supported version.
