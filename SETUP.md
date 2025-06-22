@@ -16,7 +16,7 @@
 🌃 During the installation, select the option:            
 → Add Git Bash to the system PATH           
 
-♨️ Install Gnuplot       
+♨️ Install Gnuplot for graphics      
 🌃 During the installation, select the option:       
 → Add Gnuplot to the system PATH        
 
