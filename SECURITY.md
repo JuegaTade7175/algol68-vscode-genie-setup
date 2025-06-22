@@ -8,7 +8,7 @@ If you discover any potential security vulnerability related to this repository 
 
 - Please provide detailed information so we can investigate the issue.
 - You can expect an initial response within **7 days**.
-- If the vulnerability is confirmed, an update or patch will be provided as soon as possible.
+- If the vulnerability is confirmed, an update or patch will be provided.
 
 ## Supported Versions
 
