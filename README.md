@@ -13,19 +13,19 @@ This repository is designed to provide a complete and reproducible environment f
 🎯 Version control with Git ready              
 
 ## Necessary System Installations (Full)         
-1. 🖥️ ALGOL 68 Genie           
+1. 🖨️ ALGOL 68 Genie           
 → https://algol68.sourceforge.net/         
 → The installation bin folder must be added to your system PATH.         
-2. 🖥️ Gnuplot      
+2. 🖨️ Gnuplot      
 → https://sourceforge.net/projects/gnuplot/         
 → Must be installed to be invoked and executed for graphics.          
-3. 🖥️ Visual Studio Code        
+3. 🖨️ Visual Studio Code        
 → https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=en-US&gl=US         
 → The essential program for running this historic language.      
-4. 🖥️ Git for Windows        
+4. 🖨️ Git for Windows        
 → https://git-scm.com/    
 → For version control and using the Git Bash shell.         
-5. 🖥️ Cascadia Code PL Font     
+5. 🖨️ Cascadia Code PL Font     
 → https://github.com/microsoft/cascadia-code/releases        
 → To use the most up-to-date font for emojis and ligatures.      
 
