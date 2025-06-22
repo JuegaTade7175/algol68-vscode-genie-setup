@@ -58,12 +58,12 @@
 
 ---
 
-### ♨️ Install the extensions (in VS Code)      
-🌃 Open Visual Studio Code, press `Ctrl+Shift+X`:     
-→ Search for and install the indicated extensions           
+### ♨️ Install the extensions (in VS Code)
+🌃 Open Visual Studio Code, press `Ctrl+Shift+X`:  
+→ Search for and install the indicated extensions
 
 ---
 
-### ♨️ Configure settings.json (in VS Code)           
-🌃 Open Visual Studio Code, press `Ctrl+Shift+P`:       
-→ Search for **settings.json** and paste the script template           
+### ♨️ Configure settings.json (in VS Code)
+🌃 Open Visual Studio Code, press `Ctrl+Shift+P`:  
+→ Search for **settings.json** and paste the script template
