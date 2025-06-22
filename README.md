@@ -40,7 +40,7 @@ This repository is designed to provide a complete and reproducible environment f
 → https://marketplace.visualstudio.com/items?itemName=jlguenego.algol68           
 → For good syntax support.        
 
-## For antivirus exclude these processes:         
+## For an antivirus exclude some processes         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
