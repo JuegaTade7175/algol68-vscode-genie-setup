@@ -1,6 +1,6 @@
 # Security Policy
 
-This document describes how to report security vulnerabilities related to this repository and provides guidance on supported versions and response timelines.
+This document describes how to report security vulnerabilities related to this repository and provides a simple guidance on supported versions and response timelines.
 
 ## Reporting a Vulnerability
 
