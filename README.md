@@ -1,7 +1,7 @@
 # algol68-vscode-genie-setup
 This repository is designed to provide a complete and reproducible environment for an optimized programming in ALGOL 68 Genie using Visual Studio Code on Windows 11, with support for graphing (gnuplot), version control (Git Bash), Cascadia Code PL font (ligatures), and UTF-8 terminal (emojis).     
 
-## Features of this amazing project   
+## Features of this amazing new project   
 
 🎯 Run ALGOL 68 programs on VS Code         
 🎯 Optimized terminals (UTF-8)          
