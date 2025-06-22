@@ -1,5 +1,8 @@
 # Security Policy
 
+This document describes how to report security vulnerabilities related to this repository and provides guidance on supported versions and response timelines.  
+Our goal is to ensure this configuration remains safe and useful for the community.
+
 ## Reporting a Vulnerability
 
 If you discover any potential security vulnerability related to this repository or its configuration scripts (such as `.bashrc`, `.minttyrc`, `.bat` files), please report it by opening a [GitHub Security Advisory](https://github.com/JuegaTade7175/algol68-vscode-genie-setup/security/advisories) or by contacting the maintainer.
