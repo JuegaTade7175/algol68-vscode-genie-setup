@@ -60,5 +60,8 @@
     },
     "explorer.confirmDelete": false,
     "editor.accessibilitySupport": "on",
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showCollapsed": true
 }
