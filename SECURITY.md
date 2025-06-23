@@ -6,7 +6,7 @@ This document describes how to report security vulnerabilities related to this r
 
 ### 🕵️‍♂️ Reporting A Vulnerability
 
-If you discover any potential security vulnerability related to this repository or its configuration scripts (such as `.json`, `.bashrc`, `.minttyrc`, `.bat` files), please report it by opening a [GitHub Security Advisory](https://github.com/JuegaTade7175/algol68-vscode-genie-setup/security/advisories/new) or by contacting.
+If you discover any potential security vulnerability related to this repository or its configuration scripts (such as `.json`, `.bashrc`, `.minttyrc`, `.bat` files), please report it by opening a GitHub Security Advisory or by contacting.
 
 - Please provide detailed information so we can investigate the issue.
 - You can expect an initial response within **7 days**.
