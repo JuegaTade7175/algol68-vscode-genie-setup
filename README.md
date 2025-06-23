@@ -34,7 +34,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ---
 
-### 👀 Visual Studio Code Extensions (Required)          
+### 👀 Visual Studio Code Extensions (Free)          
 1. 📟 Code Runner (Jun Han)         
 → https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner             
 → To run the correct code.          
@@ -47,7 +47,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ---
 
-### 🫸 If You Have Antivirus Exclude Some Things         
+### 🫸 If You Have Antivirus Exclude This         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
