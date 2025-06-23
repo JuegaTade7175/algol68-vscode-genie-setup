@@ -14,6 +14,6 @@ If you discover any potential security vulnerability related to this repository 
 
 ---
 
-### 🤔 About The New Versions
+### 🗓️ About The New Versions
 
 This project is a configuration setup and does not maintain versioned releases. The latest version of the repository (main branch) is always considered the supported version.
