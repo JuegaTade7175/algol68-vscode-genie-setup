@@ -3,7 +3,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ---
 
-### Features of this amazing new project   
+### Features Of This Super New Project   
 🎯 Run ALGOL 68 programs on VS Code         
 🎯 Optimized terminals (UTF-8)          
 🎯 Cascadia Code PL source      
@@ -47,7 +47,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ---
 
-### For an antivirus exclude some processes         
+### For An Antivirus Exclude Some Processes         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
