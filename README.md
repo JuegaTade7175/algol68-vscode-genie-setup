@@ -47,7 +47,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ---
 
-### 🫸 If You Have Antivirus Exclude This Processes         
+### 🫸 If You Have Antivirus Exclude Some Things         
 1. 🪚 bash.exe     
 2. 🪚 gnuplot.exe        
 3. 🪚 a68g.exe       
