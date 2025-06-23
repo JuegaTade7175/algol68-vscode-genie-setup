@@ -1,5 +1,5 @@
 ### ♨️ Prepare the system for UTF-8
-🌃 In search, type **Region** and open it:       
+🌃 In search, type **Region** and open it:        
 → Go to **Administrative**, then to **non-Unicode** and check the **Beta** box.
 
 ---
