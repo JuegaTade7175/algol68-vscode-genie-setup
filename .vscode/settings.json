@@ -50,6 +50,8 @@
     "workbench.editor.empty.hint": "hidden",
     "editor.formatOnSave": true,
     "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
         "strings": true
     },
     "editor.fontLigatures": true,
