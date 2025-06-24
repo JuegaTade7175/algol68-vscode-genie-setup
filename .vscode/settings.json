@@ -63,7 +63,7 @@
         "editor.detectIndentation": false
     },
     "security.workspace.trust.untrustedFiles": "open",
-    "explorer.confirmDelete": false,
     "editor.accessibilitySupport": "on",
+    "explorer.confirmDelete": false,
     "editor.minimap.enabled": false
 }
