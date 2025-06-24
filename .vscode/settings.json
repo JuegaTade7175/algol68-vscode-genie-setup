@@ -49,12 +49,12 @@
     "files.encoding": "utf8",
     "workbench.editor.empty.hint": "hidden",
     "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
     "editor.quickSuggestions": {
         "other": true,
         "comments": true,
         "strings": true
     },
-    "editor.fontLigatures": true,
     "[algol68]": {
         "files.encoding": "utf8",
         "editor.tabSize": 4,
@@ -62,8 +62,8 @@
         "editor.suggest.insertMode": "replace",
         "editor.detectIndentation": false
     },
+    "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDelete": false,
     "editor.accessibilitySupport": "on",
-    "security.workspace.trust.untrustedFiles": "open",
     "editor.minimap.enabled": false
 }
