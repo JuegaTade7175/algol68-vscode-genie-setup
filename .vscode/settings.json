@@ -33,6 +33,7 @@
     "terminal.integrated.enablePersistentSessions": false,
     "terminal.integrated.fontFamily": "Cascadia Code PL",
     "terminal.integrated.unicodeVersion": "11",
+    "terminal.integrated.gpuAcceleration": "on",
     "code-runner.executorMap": {
         "algol68": "cd $dir && a68g $fileName"
     },
