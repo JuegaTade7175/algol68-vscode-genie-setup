@@ -12,7 +12,7 @@
 
 ### ♨️ Add ALGOL to the (system) PATH
 🌃 In **Environment Variables**, use the option:  
-→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.14.win32\algol68g-3.5.14\bin`
+→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.14\bin`
 
 ---
 
