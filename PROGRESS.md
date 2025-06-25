@@ -1,18 +1,18 @@
 ### ♨️ Prepare the system for UTF-8
-🌃 In search, type **Region** and open it:        
+🌃 In search, type **Region** and open it:  
 → Go to **Administrative**, then to **non-Unicode** and check the **Beta** box.
 
 ---
 
 ### ♨️ Unzip ALGOL 68 Genie
 🌃 Right-click the zip and use the option:  
-→ Extract to `"algol68g-3.5.14.win32"`
+→ Extract to `"algol68g-3.5.15.win32"`
 
 ---
 
 ### ♨️ Add ALGOL to the (system) PATH
 🌃 In **Environment Variables**, use the option:  
-→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.14\bin`
+→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.15\bin`
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### ♨️ Create your a68g-utf8.bat
 🌃 Using the script template, place it in:  
-→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.14.win32\algol68g-3.5.14\bin`
+→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.15\bin`
 
 ---
 
