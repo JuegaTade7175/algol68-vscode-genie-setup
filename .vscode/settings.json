@@ -60,9 +60,5 @@
         "editor.insertSpaces": true,
         "editor.suggest.insertMode": "replace",
         "editor.detectIndentation": false
-    },
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.accessibilitySupport": "on",
-    "explorer.confirmDelete": false,
-    "editor.minimap.enabled": false
+    }
 }
