@@ -28,9 +28,15 @@
 
 ---
 
+### ♨️ Edit or create your gnuplotrc        
+🌃 Using the script template, place it in:       
+→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.15\bin`          
+
+---
+
 ### ♨️ Create your a68g-utf8.bat
 🌃 Using the script template, place it in:  
-→ `LETTER:\Users\your_username\LOCATION\algol68g-3.5.15.win32\algol68g-3.5.15\bin`
+→ `LETTER:\Program Files\gnuplot\share`
 
 ---
 
