@@ -30,18 +30,19 @@
             "icon": "terminal-bash"
         }
     },
-    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.enablePersistentSessions": true,
     "terminal.integrated.fontFamily": "Cascadia Code PL",
     "terminal.integrated.unicodeVersion": "11",
     "terminal.integrated.gpuAcceleration": "on",
     "code-runner.executorMap": {
+        "gnuplot": "gnuplot $fileName",
+        "javascript": "node",
         "algol68": "cd $dir && a68g $fileName"
     },
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
     "files.associations": {
         "*.a68": "algol68",
-        "*.alg": "algol68"
     },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.fontLigatures.enabled": true,
