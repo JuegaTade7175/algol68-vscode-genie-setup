@@ -30,7 +30,7 @@
             "icon": "terminal-bash"
         }
     },
-    "terminal.integrated.enablePersistentSessions": true,
+    "terminal.integrated.enablePersistentSessions": false,
     "terminal.integrated.fontFamily": "Cascadia Code PL",
     "terminal.integrated.unicodeVersion": "11",
     "terminal.integrated.gpuAcceleration": "on",
