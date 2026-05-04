@@ -17,7 +17,7 @@ This repository is designed to provide a complete and reproducible environment f
 
 ### 📝 Necessary System Installations (Full)         
 1. 🗃️ ALGOL 68 Genie           
-→ https://jmvdveer.home.xs4all.nl/en.download.algol-68-genie-current.html         
+→ https://algol68genie.nl/en/algol-68-genie/#obtain         
 → The installation bin folder must be added to your system PATH.         
 2. 🗃️ Gnuplot      
 → https://sourceforge.net/projects/gnuplot/         
